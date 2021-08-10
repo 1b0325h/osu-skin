@@ -3,3 +3,5 @@ build/
 dist/
 *.spec
 psd/
+sound/applause.mp3
+sound/failsound.mp3
