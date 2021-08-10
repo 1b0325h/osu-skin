@@ -7,6 +7,7 @@ go.png
 hit300-0.png
 hit300g-0.png
 hit300k-0.png
+lighting.png
 mode-fruits.png
 mode-mania.png
 mode-mania-med.png
@@ -36,3 +37,7 @@ spinner-spin.png
 spinner-top.png
 spinner-warning.png
 star2.png
+taiko-glow.png
+taiko-hit300-0.png
+taiko-hit300g-0.png
+taiko-hit300k-0.png
