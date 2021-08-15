@@ -20,6 +20,10 @@ mode-osu-med@2x.png
 mode-taiko.png
 mode-taiko-med.png
 mode-taiko-med@2x.png
+pippidonclear0.png
+pippidonfail0.png
+pippidonidle0.png
+pippidonkiai0.png
 playfield.png
 play-unranked.png
 ranking-accuracy.png
