@@ -1,6 +1,6 @@
 # Melanord
 
-[![banner](https://github.com/1b0325h/osu-skin/blob/main/img/barnner.png)]()
+[![banner](https://github.com/1b0325h/osu-skin/blob/main/img/barnner.png)](https://osu.ppy.sh/community/forums/topics/1397163)
 
 ## Screenshot
 
