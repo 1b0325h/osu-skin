@@ -1,20 +1,36 @@
-# Melanord
+[![](img/banner.png)](https://osu.ppy.sh/community/forums/topics/1397163)
 
-[![banner](https://github.com/1b0325h/osu-skin/blob/main/img/barnner.png)](https://osu.ppy.sh/community/forums/topics/1397163)
+## Preview
 
-## Screenshot
+<details>
+  <summary>Song Select</summary>
+    ![](img/ss0.png)
+</details>
 
-![ss0](https://github.com/1b0325h/osu-skin/blob/main/img/ss0.png)  
-  
-![ss1](https://github.com/1b0325h/osu-skin/blob/main/img/ss1.png)  
-  
-![ss2](https://github.com/1b0325h/osu-skin/blob/main/img/ss2.png)  
-  
-![ss3](https://github.com/1b0325h/osu-skin/blob/main/img/ss3.png)  
-  
-![ss4](https://github.com/1b0325h/osu-skin/blob/main/img/ss4.png)  
-  
-![ss5](https://github.com/1b0325h/osu-skin/blob/main/img/ss5.png)
+<details>
+  <summary>Mod Icons</summary>
+    ![](img/ss1.png)
+</details>
+
+<details>
+  <summary>Paused Screen</summary>
+    ![](img/ss2.png)
+</details>
+
+<details>
+  <summary>Result Screen</summary>
+    ![](img/ss3.png)
+</details>
+
+<details>
+  <summary>Standard</summary>
+    ![](img/ss4.png)
+</details>
+
+<details>
+  <summary>Taiko</summary>
+    ![](img/ss5.png)
+</details>
 
 ## Install
 
