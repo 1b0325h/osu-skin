@@ -1,35 +1,37 @@
-[![](img/banner.png)](https://osu.ppy.sh/community/forums/topics/1397163)
+<p align="center">
+  <img src="img/banner.png">
+</p>
 
 ## Preview
 
 <details>
   <summary>Song Select</summary>
-    ![](img/ss0.png)
+  <img src="img/ss0.png">
 </details>
 
 <details>
   <summary>Mod Icons</summary>
-    ![](img/ss1.png)
+  <img src="img/ss1.png">
 </details>
 
 <details>
   <summary>Paused Screen</summary>
-    ![](img/ss2.png)
+  <img src="img/ss2.png">
 </details>
 
 <details>
   <summary>Result Screen</summary>
-    ![](img/ss3.png)
+  <img src="img/ss3.png">
 </details>
 
 <details>
   <summary>Standard</summary>
-    ![](img/ss4.png)
+  <img src="img/ss4.png">
 </details>
 
 <details>
   <summary>Taiko</summary>
-    ![](img/ss5.png)
+  <img src="img/ss5.png">
 </details>
 
 ## Install
