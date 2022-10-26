@@ -2,6 +2,8 @@
   <img src="img/banner.png">
 </p>
 
+<samp>
+
 ## Preview
 
 <details>
@@ -44,3 +46,5 @@
 - v0 - Initial release.
 - v1 - The UI is complete with support for the standard.
 - v2 - Added support for taiko mode.
+
+</samp>
